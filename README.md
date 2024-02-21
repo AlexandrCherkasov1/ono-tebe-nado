@@ -1,1 +1,1 @@
-git@github.com:AlexandrCherkasov1/ono-tebe-nado.git
+https://github.com/AlexandrCherkasov1/ono-tebe-nado.git
